@@ -35,6 +35,7 @@ sensor-ctl read --accel
 sensor-ctl read --voltage
 sensor-ctl monitor
 sensor-ctl monitor --interval 500
+sensor-ctl --device /sys/bus/iio/devices/iio:device2 status
 ```
 
 ## Unload
