@@ -1,6 +1,6 @@
 <div align="center">
 
-# iio-vsensor
+# IIO Virtual Sensor Driver
 
 </div>
 
