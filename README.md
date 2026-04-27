@@ -29,6 +29,10 @@ cd ../cli && cargo build --release
 ```bash
 sensor-ctl status
 sensor-ctl read
+sensor-ctl read --temp
+sensor-ctl read --gyro
+sensor-ctl read --accel
+sensor-ctl read --voltage
 sensor-ctl monitor
 sensor-ctl monitor --interval 500
 ```
