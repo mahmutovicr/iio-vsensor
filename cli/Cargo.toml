@@ -1,0 +1,14 @@
+[package]
+name = "sensor-ctl"
+version = "1.0.0"
+edition = "2021"
+authors = ["mahmutovicr"]
+description = "CLI tool for iio-vsensor virtual IIO kernel driver"
+
+[[bin]]
+name = "sensor-ctl"
+path = "src/main.rs"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+ctrlc = "3"

@@ -1,0 +1,11 @@
+driver/*.o
+driver/*.ko
+driver/*.mod
+driver/*.mod.c
+driver/*.mod.o
+driver/*.symvers
+driver/*.order
+driver/.tmp_versions/
+driver/Module.symvers
+driver/modules.order
+cli/target/

@@ -1,0 +1,1 @@
+savedcmd_/home/r_m/iio-vsensor/driver/Module.symvers :=  scripts/mod/modpost -M -m       -o /home/r_m/iio-vsensor/driver/Module.symvers -T /home/r_m/iio-vsensor/driver/modules.order -i Module.symvers -e 
