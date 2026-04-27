@@ -10,10 +10,10 @@ Linux IIO kernel driver for virtual temperature, gyroscope, accelerometer and vo
 
 ## Features
 
-- **Temperature** — 25°C – 30°C
-- **Gyroscope** — 3-axis angular velocity in rad/s
-- **Accelerometer** — 3-axis acceleration in m/s²
-- **Voltage** — 3.3V power rail
+- **Temperature** — thermal sensor data via Linux IIO sysfs interface
+- **Gyroscope** — 3-axis angular velocity sensor (X, Y, Z) in rad/s
+- **Accelerometer** — 3-axis acceleration sensor (X, Y, Z) in m/s²
+- **Voltage** — power rail voltage monitoring in V
 
 ## Build
 
