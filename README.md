@@ -6,7 +6,7 @@
 
 ## About
 
-Linux IIO kernel driver for virtual temperature, gyroscope, accelerometer and voltage sensors using Rust CLI for monitoring.
+Linux IIO kernel driver for virtual temperature, gyroscope, accelerometer and voltage sensors using Rust CLI for monitoring
 
 ## Features
 
